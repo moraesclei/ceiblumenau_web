@@ -1,0 +1,55 @@
+.main-bg {
+  background-image: url("../img/foto1_principal.jpg");
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+  opacity: 0.9;
+}
+
+.grid-one{
+  background-image: url("../img/main-bg.svg");
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+ 
+}
+
+.grid-two{
+  background-image: url("../img/background_2.svg");
+  
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.main-contact{
+  background-image: url("../img/main-bg.svg");
+  
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.white-bg {
+  background: #e3dddd;
+  color: var(--primary-color);
+}
+
+.main-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+
+.menu-spacing {
+  height: 65px;
+}
+
+body .full-width {
+  width: 100%;
+  flex: 1 1 100%;
+}
