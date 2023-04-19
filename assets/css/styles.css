@@ -235,6 +235,7 @@ strong {
   }
 
   .menu-content {
+    display: block;
     height: 100vh;
     /*alterei de 100 para 99*/
   }
