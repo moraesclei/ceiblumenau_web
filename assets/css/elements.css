@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-  font-size: 6rem;
+  font-size: 4rem;
   margin-bottom: 5rem;
   text-transform: uppercase;
   line-height: 1.2;
@@ -89,7 +89,7 @@ table td, table th {
 tfoot td, table th {
   background: var(--light-gray-color);
 }
-
+/* 
 .menu-lateral {
   position: fixed;
   top: 0;
@@ -110,14 +110,14 @@ tfoot td, table th {
 .menu-lateral .ícone {
   width: 40px;
   /*filter: invert(1); filter permite que inverta para 1(branco)*/
-  transition: 0.3s ease-in-out;
-}
+  /* transition: 0.3s ease-in-out;
+} */
 
-.menu-lateral .ícone:hover {
+/* .menu-lateral .ícone:hover {
   /*houver - ao passar o mouse por cima do elemento ele faz alguma coisa*/
-  transform: scale(1.2);
-}
+  /* transform: scale(1.2);
+} */ 
 
-li::marker {
+/* li::marker {
   content: none;
-}
+} */ 

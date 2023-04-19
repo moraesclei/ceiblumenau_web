@@ -16,7 +16,6 @@
 
 .grid-two{
   background-image: url("../img/background_2.svg");
-  
   background-size: cover;
   background-position: center center;
   color: var(--white-color);
@@ -24,7 +23,6 @@
 
 .main-contact{
   background-image: url("../img/main-bg.svg");
-  
   background-size: cover;
   background-position: center center;
   color: var(--white-color);
