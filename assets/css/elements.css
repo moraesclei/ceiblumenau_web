@@ -94,7 +94,7 @@ tfoot td, table th {
   position: fixed;
   top: 0;
   right: 0;
-  width: 80px;
+  width:90px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -108,8 +108,8 @@ tfoot td, table th {
 }
 
 .menu-lateral .ícone {
-  width: 40px;
-  filter: invert(1); /*filter permite que inverta para 1(branco)*/
+  width: 30px;
+  filter: invert(0); /*filter permite que inverta para 1(branco)*/
   transition: 0.3s ease-in-out;
 } 
 
